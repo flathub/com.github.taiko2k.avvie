@@ -6,6 +6,7 @@
    "command":"main.py",
    "finish-args":[
       "--share=ipc",
+      "--device=dri",
       "--socket=wayland",
       "--socket=fallback-x11",
       "--filesystem=xdg-pictures",
