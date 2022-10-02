@@ -1,7 +1,7 @@
 {
   "app-id": "com.github.taiko2k.avvie",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "42",
+  "runtime-version": "43",
   "sdk": "org.gnome.Sdk",
   "command": "avvie",
   "finish-args": [
@@ -61,7 +61,7 @@
         {
            "type":"git",
            "url":"https://github.com/Taiko2k/avvie.git",
-           "commit":"5165d03202472f28557e98ebc66b49483b97d744"
+           "commit":"e7d53574a93862856ec058693343be85522ccefb"
         }
       ]
     }
